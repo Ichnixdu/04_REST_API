@@ -1,0 +1,15 @@
+{
+  "name": "04_rest_api",
+  "version": "1.0.0",
+  "description": "**Lorem ipsum dolor sit amet**, consectetuer adipiscing elit. *Aenean commodo ligula eget dolor*. ***Aenean massa.*** Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
